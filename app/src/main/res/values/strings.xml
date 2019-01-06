@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Settings</string>
+    <string name="two_opts_title">Fire TV</string>
+    <string name="two_opts_breadcrumb">Amazon</string>
+    <string name="two_opts_desc">Settings</string>
+
+    <string name="two_opts_display">Display and Sound"</string>
+    <string name="two_opts_net">Network"</string>
+    <string name="two_opts_dev">Bluetooth and Remotes"</string>
+    <string name="two_opts_access">Accessibility"</string>
+    <string name="two_opts_app">Applications"</string>
+    <string name="two_opts_pref">Preferences"</string>
+    <string name="two_opts_device">Device"</string>
+    <string name="two_opts_lang">Language"</string>
+    <string name="two_opts_account">Amazon Account"</string>
+    <string name="two_opts_monitor">Data Monitoring"</string>
+    <string name="two_opts_developer">Developer Menu"</string>
+    <string name="two_opts_res">Factory Reset"</string>
+</resources>
